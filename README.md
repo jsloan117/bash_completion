@@ -10,5 +10,5 @@ If you do not have a bash_completion.d directory, copy them to where ever you wi
 
 ``` bash
 # git clone https://github.com/jsloan117/bash_completion
-# mv -v bash_completion/* /etc/bash_completion.d
+# mv -v bash_completion/*.bash /etc/bash_completion.d
 ```
